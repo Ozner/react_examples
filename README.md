@@ -1,1 +1,2 @@
-# react_examples
+# Componente tipo usuarios recomendados de X
+
